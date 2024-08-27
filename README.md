@@ -9,19 +9,17 @@ Nesse projeto mostramos que podemos criar MLP(Multi Layer Perceptron) que aprend
 
 # PyTorch
 
-![Alt text](Info/main_info.png)
+![Alt text](Info/Ex.png)
 
 
 Usamos a biblioteca PyTorch para criar e treinar a nossa MLP. Acelerando o processo de treinamento e criando uma rede neural usando uma GPU. PyTorch e uma biblioteca de Python, que nos permite criar modelos de deep learning de forma simples e manipular tensores (matrizes multidimensionais) de forma extremamente eficiente.
 
 
-![Alt text](Info/inter.png)
-
+![Alt text](Info/Chempng)
 
 # Inteface final e plano de expansão
 
 
-![Alt text](Info/com.png)
 Este projeto pode ser expandido para a predição de outros tipos de dados quimicos, como por exemplo, a predição da energia de uma molecula, ou a predição da sua reatividade, entre outros. 
 
 
